@@ -1,5 +1,5 @@
 Feature: Test sum
-  Scenario:
+  Scenario: First adding
     Given I test with zero
     When I add 0 and 3
     Then result is 3
